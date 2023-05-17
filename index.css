@@ -1,0 +1,13 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: rgb(245, 186, 123);
+    border: 5px dotted black;
+}
+
+hr {
+    border: 3px solid black;
+}
+
+li {
+    font-size: 22px;
+}
